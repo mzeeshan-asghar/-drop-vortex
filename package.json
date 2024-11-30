@@ -1,0 +1,17 @@
+{
+  "name": "@drop-vortex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "type": "module",
+  "packageManager": "pnpm@9.14.3"
+}
